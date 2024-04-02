@@ -1,5 +1,3 @@
-![GitHub Profile Banner](https://github.com/cyberiapsycho/cyberiapsycho/assets/115999283/58f52387-6c3d-46fe-ba30-691ed548a4c9)
-
 ## Who is Cyberiapsycho? 🤔
 
 Cyberiapsycho is inspired by Cyberpunk concept, reflecting my interest in technology. I'm not a professional coder; I focus on finance, marketing and advertising, UI/UX, printing and 3D desgin. While I enjoy discussing these things, I still aspire to enter the coding world as a junior.
